@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a self-directed Senior Technical Writer with a foundation in information architecture and 15 years of technical writing experience. My approach to writing is to provide *clear and concise* information that helps the customer find the information they need with the **fewest** obstacles so they can get on with their day. 
